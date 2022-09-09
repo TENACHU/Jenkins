@@ -1,3 +1,4 @@
 
 
 npm --version
+node -v
