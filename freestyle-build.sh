@@ -1,4 +1,3 @@
 
 
-npm --versio
-.n
+npm --version
